@@ -1,11 +1,17 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package name.panitz.ludens.animationGame;
 
 /**
  *
  * @author ASUS
  */
-package name.panitz.ludens.animationGame;
-public class Vertex {
-    public double x;
+public class Pizza {
+     public double x;
     public double y;
     public Vertex(double xx,double yy){
         x=xx;
@@ -52,3 +58,6 @@ public class Vertex {
     
 }
 
+
+    
+}
